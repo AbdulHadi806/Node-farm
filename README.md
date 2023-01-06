@@ -4,8 +4,9 @@ Node.js app. A simple farm app giving vegtables, biscuts, etc price and descript
 Will update the code and add more functionality.
 To run the app.
 1. First download the zip.
-2. npm init
+2. type npm init
 3. And finally type node index.js
+
 
 <img width=550 src="https://user-images.githubusercontent.com/113926529/211078591-e743f107-9f72-40a3-b8a1-e7a6dcad990f.png"/>
 <img width=550 height=550 src="https://user-images.githubusercontent.com/113926529/211078485-3aa28612-350a-49d1-a7e2-1711b12f37eb.png" />
